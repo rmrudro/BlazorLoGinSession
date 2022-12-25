@@ -1,0 +1,12 @@
+C:\Programing\C#Practise\HighWay\HighWay\Shared\bin\Debug\net6.0\HighWay.Shared.deps.json
+C:\Programing\C#Practise\HighWay\HighWay\Shared\bin\Debug\net6.0\HighWay.Shared.dll
+C:\Programing\C#Practise\HighWay\HighWay\Shared\bin\Debug\net6.0\HighWay.Shared.pdb
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.csproj.AssemblyReference.cache
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.AssemblyInfoInputs.cache
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.AssemblyInfo.cs
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.csproj.CoreCompileInputs.cache
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.dll
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\refint\HighWay.Shared.dll
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\HighWay.Shared.pdb
+C:\Programing\C#Practise\HighWay\HighWay\Shared\obj\Debug\net6.0\ref\HighWay.Shared.dll
